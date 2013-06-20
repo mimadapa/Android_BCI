@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Developer/Android_BCI/Android_BCI/src/main/assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Developer/Android_BCI/Android_BCI/src/release/assets" />
+    </dataSet>
+
+</merger>

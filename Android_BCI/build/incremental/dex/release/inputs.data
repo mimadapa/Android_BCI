@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1371734414000 425 161ef6291110f6564289d42ad684749b67299246 /Developer/Android_BCI/Android_BCI/build/classes/release/com/uam/lini/android_bci/R$drawable.class
+1371734414000 411 46233fc9c2c8a6a1e95db2bf1d18c208c58cbf60 /Developer/Android_BCI/Android_BCI/build/classes/release/com/uam/lini/android_bci/R$id.class
+1371734414000 829 ef6d5417a47a928becbc78a9faf9fd6e223e815e /Developer/Android_BCI/Android_BCI/build/classes/release/com/uam/lini/android_bci/MainActivity.class
+1371734414000 479 e7049dcc80890a781d628174367f4555eaf384ad /Developer/Android_BCI/Android_BCI/build/classes/release/com/uam/lini/android_bci/R$dimen.class
+1371734414000 406 733a210f16ac31d9025bfe893d9b9dc8fae157f4 /Developer/Android_BCI/Android_BCI/build/classes/release/com/uam/lini/android_bci/R$menu.class
+1371734414000 490 4578d7fa38866fd938f3795501416bd084afcc44 /Developer/Android_BCI/Android_BCI/build/classes/release/com/uam/lini/android_bci/R$string.class
+1371734414000 357 33d306b08b4b9eef5cc628c46d5221911270ae48 /Developer/Android_BCI/Android_BCI/build/classes/release/com/uam/lini/android_bci/BuildConfig.class
+1371734414000 449 236f27750432ef0a277da083b9b9874c29ccfa1c /Developer/Android_BCI/Android_BCI/build/classes/release/com/uam/lini/android_bci/R$style.class
+1371734414000 421 c8e8516edfce06650d1210e30fd96720186ce96d /Developer/Android_BCI/Android_BCI/build/classes/release/com/uam/lini/android_bci/R$layout.class
+1371734364000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /Developer/Android_BCI/Android_BCI/libs/android-support-v4.jar
+1371734414000 358 b386e0f3ad0ad7c66189939e3a93e21f2fdfffc2 /Developer/Android_BCI/Android_BCI/build/classes/release/com/uam/lini/android_bci/R$attr.class
+1371734414000 737 7f14c5264b9d8fba0248caf427467f93aea7547a /Developer/Android_BCI/Android_BCI/build/classes/release/com/uam/lini/android_bci/R.class

@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1371734364000 8599 a7a1970be9c13882bdf8deae85b143a0358c9a29 /Developer/Android_BCI/Android_BCI/src/main/res/drawable-hdpi/ic_launcher.png
+1371734364000 674 c78f92856947cb5742edaa3b94df76b0823dbbe7 /Developer/Android_BCI/Android_BCI/src/main/res/values/styles.xml
+1371734364000 649 52e8d9051811c2787c5fc0d0dc7735d67b0820be /Developer/Android_BCI/Android_BCI/src/main/res/layout/activity_main.xml
+1371734364000 318 f37b4c43b290eba4a42d9102f14a550c301de5c8 /Developer/Android_BCI/Android_BCI/src/main/res/values-v11/styles.xml
+1371734364000 211 4e1904afba59d31e5cd6133f6a4c360fa9a5913f /Developer/Android_BCI/Android_BCI/src/main/res/values/dimens.xml
+1371734364000 181 84de2797380184d8b39af6f829afb092fb956173 /Developer/Android_BCI/Android_BCI/src/main/res/values-sw600dp/dimens.xml
+1371734364000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Developer/Android_BCI/Android_BCI/src/main/res/menu/main.xml
+1371734364000 13624 35aab59a703c5cca105b0727322a8f64b8cdfbe9 /Developer/Android_BCI/Android_BCI/src/main/res/drawable-xhdpi/ic_launcher.png
+1371734364000 221 f3d0682a137b4aef1a77476e0b68c7fcf71baf93 /Developer/Android_BCI/Android_BCI/src/main/res/values/strings.xml
+1371734364000 27510 5eb02e0e4b3f443b4f48ad3483fd6addb236a011 /Developer/Android_BCI/Android_BCI/src/main/res/drawable-xxhdpi/ic_launcher.png
+1371734364000 254 25b6404e44acb50c82590049639d4fb5fefbac8e /Developer/Android_BCI/Android_BCI/src/main/res/values-sw720dp-land/dimens.xml
+1371734364000 4316 64190faf219ac7998c5ab41b73488d0138863727 /Developer/Android_BCI/Android_BCI/src/main/res/drawable-mdpi/ic_launcher.png
